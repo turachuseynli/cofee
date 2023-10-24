@@ -157,7 +157,6 @@ nav {
     gap: 30px;
     justify-content: center;
     align-items: center;
-
 }
 
 .day1 {
@@ -167,31 +166,6 @@ nav {
     height: 70px;
     width: 150px;
 }
-
-.day2 {
-    color: #FFF;
-    font-size: 28px;
-    font-weight: 400;
-    height: 70px;
-    width: 150px;
-}
-
-.day3 {
-    color: #FFF;
-    font-size: 28px;
-    font-weight: 400;
-    height: 70px;
-    width: 150px;
-}
-
-.day4 {
-    color: #FFF;
-    font-size: 28px;
-    font-weight: 400;
-    height: 70px;
-    width: 150px;
-}
-
 .fourth {
     width: 100%;
     height: 700px;
@@ -215,17 +189,17 @@ nav {
     position: absolute;
     top: 250px;
     justify-content: center;
-    
+    z-index: 1;
 }
 .vector1{
     position: absolute;
-    top: 245px;
-    left: 100px;
+    top: 243px;
+    left: 110px;
 }
 .vector2{
     position: absolute;
-    top: 245px;
-    right: 100px;
+    top: 248px;
+    right: 110px;
 }
 
 .menu {
