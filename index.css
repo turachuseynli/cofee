@@ -207,8 +207,25 @@ nav {
     height: 650px;
     justify-content: center;
     display: flex;
-    gap: 16px;
+    gap: 45px;
     padding-top: 50px;
+    position: relative;
+}
+.vector{
+    position: absolute;
+    top: 250px;
+    justify-content: center;
+    
+}
+.vector1{
+    position: absolute;
+    top: 245px;
+    left: 100px;
+}
+.vector2{
+    position: absolute;
+    top: 245px;
+    right: 100px;
 }
 
 .menu {
@@ -229,7 +246,7 @@ nav {
     font-style: normal;
     font-weight: 600;
     text-decoration: underline;
-    padding-left: 100px;
+    padding-left: 150px;
 }
 
 .product1 {
